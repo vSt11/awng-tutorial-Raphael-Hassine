@@ -133,3 +133,7 @@ dmypy.json
 
 # macOS crap
 .DS_Store
+
+#Secret key
+manage.py
+
